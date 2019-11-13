@@ -1,6 +1,5 @@
-# RL_Handson
+# Reinforcement Learning Hands on Exercises
 
-Reinforcement Learning Hands on Exercises
 
 Attempt :muscle: the exercises, :eyes: the solutions notebook only if you get stuck
 
