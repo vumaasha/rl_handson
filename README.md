@@ -12,10 +12,13 @@ Attempt :muscle: the exercises, :eyes: the solutions notebook only if you get st
 
 
 Additional Resources:
-Lectures: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
-slides: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-Book: http://incompleteideas.net/book/the-book-2nd.html
-Github Repository:
-https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-https://github.com/dennybritz/reinforcement-learning
-https://github.com/hill-a/stable-baselines
+
+* Lectures: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+* slides: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+* Book: http://incompleteideas.net/book/the-book-2nd.html
+
+Github Repositories used as References:
+
+* https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+* https://github.com/dennybritz/reinforcement-learning
+* https://github.com/hill-a/stable-baselines
