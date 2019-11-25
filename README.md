@@ -1,5 +1,7 @@
 # Reinforcement Learning Hands on Exercises
 
+Each folder contains jupyter notebooks for exercises and their corresponding solutions. 
+
 
 Attempt :muscle: the exercises, :eyes: the solutions notebook only if you get stuck
 
