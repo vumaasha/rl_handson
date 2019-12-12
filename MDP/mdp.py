@@ -66,10 +66,13 @@ class MDP:
         
         return next_state, reward, is_done
     
-    def generate_episodes(self):
+    def generate_episodes(self,start_state=None):
         """ generates a single episode """
         is_done = False
-        self.reset()
+        if start_state:
+            self._current_state = start_state
+        else:
+            self.reset()
         episode = []
         while not is_done:
             s = self._current_state
