@@ -9,12 +9,10 @@ class MRP:
     def __init__(self, states, transition_probs, rewards):
         """
         Defines an MDP. Compatible with gym Env.
-
         :param states: the list of state names
         :param transition_probs: transition_probs[s][s_next] = P(s_next | s)
             A dict[state -> dict] of of dicts[next_state -> prob]
             For each state, probabilities of next states should sum to 1
-
         :param rewards: rewards[s] = r(s,a,s')
             A dict[state -> dict] of dicts[action -> dict] of dicts[next_state -> reward]
             The reward for anything not mentioned here is zero.
