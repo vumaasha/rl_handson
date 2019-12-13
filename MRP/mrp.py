@@ -15,7 +15,7 @@ class MRP:
             A dict[state -> dict] of of dicts[next_state -> prob]
             For each state, probabilities of next states should sum to 1
 
-        :param rewards: rewards[s] = r(s,a,s')
+        :param rewards: rewards[s] = r(s,s')
             A dict[state -> dict] of dicts[action -> dict] of dicts[next_state -> reward]
             The reward for anything not mentioned here is zero.
         """
